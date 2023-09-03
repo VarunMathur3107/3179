@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": { "text": "Cheapest European Cities" },
     "data": {
-        "url": "https://raw.githubusercontent.com/VarunMathur3107/3179/main/city_daily_cost.csv"
+        "url": "data/city_daily_cost.csv"
     },
     "mark": "bar",
     "encoding": {
